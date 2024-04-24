@@ -1,0 +1,6 @@
+@DotNet_With_MongoDB_HostAddress = http://localhost:5008
+
+GET {{DotNet_With_MongoDB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
